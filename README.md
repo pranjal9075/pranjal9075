@@ -1,4 +1,4 @@
-![logo](https://github.com/pranjal9075/pranjal9075/blob/main/IMG_20240824_121338.jpg)
+![logo](https://images.app.goo.gl/LpDYbmP3isSXbEwK8)
 <h1 align="center">Hi 👋, I'm Pranjal Supekar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img width="400" src="https://github.com/pranjal9075/pranjal9075/blob/main/1.avif"/>
